@@ -3,13 +3,12 @@
 layout: default
 ---
 
-# This is a big header
+
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 
-## This is a small header
 
 # Introduction 
 The idea we wanted to implement in this course was to use more real-world examples to help students better understand how coding can be useful. The reason for this idea was that most students who take this course come from different majors other than Computer Science, because this course may fulfill a requirement for their degree. Using real-world examples will allow them to understand why this course may be useful in the future.
